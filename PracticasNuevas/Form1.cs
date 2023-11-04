@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PracticasNuevas.Class;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,12 @@ namespace PracticasNuevas
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            clsCalcular objCalc = new clsCalcular();
+            MessageBox.Show($"{objCalc.CalculateSum(Convert.ToInt32(textBox1.Text), Convert.ToInt32(textBox2.Text))}");
         }
     }
 }
