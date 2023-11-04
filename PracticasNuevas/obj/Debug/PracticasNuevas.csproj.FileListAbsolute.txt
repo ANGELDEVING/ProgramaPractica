@@ -1,0 +1,10 @@
+D:\proyectos Flutter\aplicacionprimera\PracticasNuevas\PracticasNuevas\bin\Debug\PracticasNuevas.exe.config
+D:\proyectos Flutter\aplicacionprimera\PracticasNuevas\PracticasNuevas\bin\Debug\PracticasNuevas.exe
+D:\proyectos Flutter\aplicacionprimera\PracticasNuevas\PracticasNuevas\bin\Debug\PracticasNuevas.pdb
+D:\proyectos Flutter\aplicacionprimera\PracticasNuevas\PracticasNuevas\obj\Debug\PracticasNuevas.csproj.AssemblyReference.cache
+D:\proyectos Flutter\aplicacionprimera\PracticasNuevas\PracticasNuevas\obj\Debug\PracticasNuevas.Form1.resources
+D:\proyectos Flutter\aplicacionprimera\PracticasNuevas\PracticasNuevas\obj\Debug\PracticasNuevas.Properties.Resources.resources
+D:\proyectos Flutter\aplicacionprimera\PracticasNuevas\PracticasNuevas\obj\Debug\PracticasNuevas.csproj.GenerateResource.cache
+D:\proyectos Flutter\aplicacionprimera\PracticasNuevas\PracticasNuevas\obj\Debug\PracticasNuevas.csproj.CoreCompileInputs.cache
+D:\proyectos Flutter\aplicacionprimera\PracticasNuevas\PracticasNuevas\obj\Debug\PracticasNuevas.exe
+D:\proyectos Flutter\aplicacionprimera\PracticasNuevas\PracticasNuevas\obj\Debug\PracticasNuevas.pdb
